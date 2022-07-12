@@ -1,0 +1,24 @@
+.bg-light{
+    margin-top: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    background-color: #2254D1;
+    margin: 0;
+    padding: 1.2rem;
+}
+
+.container-fluid a{
+    margin: 0 42% 0 2rem;
+    color:  #FFFFFFCC;
+    
+}
+
+.nav-item{
+    padding: 3%;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
+    color: #fff;
+}

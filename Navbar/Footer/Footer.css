@@ -1,0 +1,57 @@
+.container-fluid{
+    background-color: #2254D1;
+    align-items: center
+    ;
+}
+
+.col-sm-3{
+    text-align: left;
+    padding: 2%;
+    color:  #FFFFFF;
+    margin-bottom: 1%
+    ;
+}
+
+.col-sm-3 h5{
+    margin-left: 4%;
+    margin-bottom: 5%;
+}
+
+.col-sm-3 p{
+    text-align:start;
+    font-size: small;
+}
+
+.col-sm-3 a{
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 10% 9% 0;
+    font-size: 80%;
+}
+
+.form-control{
+    width: 80%;
+}
+
+.col-sm-3 label{
+    font-size: 100%;
+}
+
+.footer-text{
+    color: #2254D1;
+    margin: 1% 0 0 2%;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+}
+.fa-facebook, .fa-twitter, .fa-youtube{
+    margin: 0 9% 0 0;
+    background-color: #FFFFFF;
+    color: #2254D1;
+    padding: 2%;
+    font-size: 100%;
+    border-radius: 50%;
+}
